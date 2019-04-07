@@ -1,0 +1,6 @@
+E:\Git-Repos\Testing\DelegateExample\DelegateExample\bin\Debug\DelegateExample.exe.config
+E:\Git-Repos\Testing\DelegateExample\DelegateExample\bin\Debug\DelegateExample.exe
+E:\Git-Repos\Testing\DelegateExample\DelegateExample\bin\Debug\DelegateExample.pdb
+E:\Git-Repos\Testing\DelegateExample\DelegateExample\obj\Debug\DelegateExample.csprojResolveAssemblyReference.cache
+E:\Git-Repos\Testing\DelegateExample\DelegateExample\obj\Debug\DelegateExample.exe
+E:\Git-Repos\Testing\DelegateExample\DelegateExample\obj\Debug\DelegateExample.pdb

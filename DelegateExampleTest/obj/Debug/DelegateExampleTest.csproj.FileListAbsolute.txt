@@ -1,0 +1,8 @@
+E:\Git-Repos\Testing\DelegateExample\DelegateExampleTest\bin\Debug\DelegateExampleTest.dll
+E:\Git-Repos\Testing\DelegateExample\DelegateExampleTest\bin\Debug\DelegateExampleTest.pdb
+E:\Git-Repos\Testing\DelegateExample\DelegateExampleTest\bin\Debug\DelegateExample.exe
+E:\Git-Repos\Testing\DelegateExample\DelegateExampleTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\Git-Repos\Testing\DelegateExample\DelegateExampleTest\bin\Debug\DelegateExample.pdb
+E:\Git-Repos\Testing\DelegateExample\DelegateExampleTest\obj\Debug\DelegateExampleTest.csprojResolveAssemblyReference.cache
+E:\Git-Repos\Testing\DelegateExample\DelegateExampleTest\obj\Debug\DelegateExampleTest.dll
+E:\Git-Repos\Testing\DelegateExample\DelegateExampleTest\obj\Debug\DelegateExampleTest.pdb

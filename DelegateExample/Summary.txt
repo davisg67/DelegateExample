@@ -1,0 +1,23 @@
+﻿The logic to promote an employee can change so we don't want to hard code 
+it into the Employee class.
+
+1. Define the delegate type - 
+   public delegate bool EligibleToPromoteDelegate(Employee E);
+
+2. In Main() assign the Promote method to the variable, promoteMethod
+   of delegate type, EligibleToPromoteDelegate. the promoteMethod variable 
+   now points to the Promote method where logic is coded.
+
+3. When the PromoteEmployee method is called on the Employee class
+   a list of employees and the pointer to the Promote() is sent as 
+   parameters.
+
+4. In the PromoteEmployee() our pointer parameter is called, IsEmployeeEligible.
+   IsEmployeeEligible takes the Employee variable as an argument to Promote().
+
+Now the client who uses the Employee class has the flexibility of determining 
+the logic on how they want to promote their employees. Delegates allow us to
+pass a function as a parameter.
+
+
+
